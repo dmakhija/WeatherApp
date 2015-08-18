@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DURGA</Machine>
+    <WindowsUser>ampm</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d4d0b76d-165f-4cab-ac38-e96eae93814e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\bin\Debug\JsonWeatherApp.exe">
+      <PackagePath>JsonWeatherApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\packages\Newtonsoft.Json.6.0.6\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\packages\Microsoft.Net.Http.2.2.28\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\packages\Microsoft.Net.Http.2.2.28\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\Assets\header.png">
+      <PackagePath>Assets\header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\bin\Debug\JsonWeatherApp.xr.xml">
+      <PackagePath>JsonWeatherApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A3\JsonWeatherApp\JsonWeatherApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
